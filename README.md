@@ -7,9 +7,9 @@ _I’m Uddeshya – passionate about building intuitive web apps that make users
   <a href="https://theuddeshya.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/theudddeshya/" target="_blank">
+<!--   <a href="https://www.linkedin.com/in/theudddeshya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style-for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a> -->
   <a href="mailto:uddeshyasharma98@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style-for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -27,7 +27,7 @@ _I’m Uddeshya – passionate about building intuitive web apps that make users
 
 ---
 
-### Featured Projects
+### Projects
 - **[Quizzical](https://csb-hzdyvt.netlify.app/)** – A category-based quiz app built with React and TailwindCSS, designed to engage users with dynamic content.
 - **[Notesy](https://csb-pkek8l.netlify.app/)** – A markdown-enabled notes app using React and localStorage, streamlining note organization for users.
 - **[Meme Maker](https://csb-dy3qum.netlify.app/)** – A meme generator leveraging React and public APIs, enabling quick customization.
@@ -46,5 +46,5 @@ _I’m Uddeshya – passionate about building intuitive web apps that make users
 ### Reach Out
 - **Email**: [uddeshyasharma98@gmail.com](mailto:uddeshyasharma98@gmail.com)
 - **Portfolio**: [theuddeshya.netlify.app](https://theuddeshya.netlify.app)
-- **LinkedIn**: [linkedin.com/in/theudddeshya](https://www.linkedin.com/in/theudddeshya/)
+<!-- **LinkedIn**: [linkedin.com/in/theudddeshya](https://www.linkedin.com/in/theudddeshya/) -->
 - _Eager to contribute to innovative frontend teams – reach out to discuss opportunities!_
