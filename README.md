@@ -1,5 +1,5 @@
 ## Hi, I'm Uddeshya Sharma
-### Frontend Developer specializing in React
+### Full stack Developer
 
 _I’m Uddeshya – passionate about building intuitive web apps that make users’ lives easier._
 
@@ -19,7 +19,7 @@ _I’m Uddeshya – passionate about building intuitive web apps that make users
 
 ### About Me
 - I’m a Computer Science graduate and Front-End developer building responsive, accessible UIs with React, TypeScript, and TailwindCSS.
-- Key skills: React component development, TypeScript, responsive design, API integration, and UI/UX optimization.
+- Key skills: React, TypeScript, responsive design, API integration, and UI/UX optimization.
 - I’ve been sharpening my craft through daily projects, teaching myself tools like Next.js to keep up with frontend trends.
 - I enjoy collaborating on projects, drawing on my communication and teamwork to create user-focused solutions.
 - My love for challenges, from coding to running marathons or sketching creative designs, keeps me driven and open to new ideas.
