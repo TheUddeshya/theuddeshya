@@ -4,7 +4,7 @@
 _I’m Uddeshya, a full-stack developer passionate about building intuitive, user-focused web applications using modern JavaScript tools._
 
 <p>
-  <a href="https://theuddeshya.netlify.app" target="_blank">
+  <a href="https://theus.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:uddeshyasharma98@gmail.com">
@@ -45,5 +45,5 @@ _I’m Uddeshya, a full-stack developer passionate about building intuitive, use
 ### Reach Out
 
 - **Email**: [uddeshyasharma98@gmail.com](mailto:uddeshyasharma98@gmail.com)  
-- **Portfolio**: [theuddeshya.netlify.app](https://theuddeshya.netlify.app)  
+- **Portfolio**: [theuddeshya.netlify.app](https://theus.netlify.app)  
 _Currently open to full-time roles. Let’s connect and build something great._
