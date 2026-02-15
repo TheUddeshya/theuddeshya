@@ -43,7 +43,6 @@ _I’m Uddeshya, a full-stack developer passionate about building intuitive, use
 ---
 
 ### Reach Out
-
-- **Email** (mailto:uddeshyasharma98@gmail.com)  
+ 
 - **Portfolio** (https://theus.netlify.app)  
 _Currently open to full-time roles. Let’s connect and build something great._
